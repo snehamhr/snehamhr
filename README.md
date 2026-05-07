@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Sneha Maheria 👋</h1>
 
 <h3 align="center">
-Aspiring AI/ML Engineer | NLP | RAG Systems | FastAPI | Applied Machine Learning
+Aspiring AI/ML Engineer | NLP | RAG Systems | Applied Machine Learning
 </h3>
 
 ---

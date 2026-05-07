@@ -4,10 +4,6 @@
 Aspiring AI/ML Engineer | NLP | RAG Systems | FastAPI | Applied Machine Learning
 </h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=snehamhr&label=Profile%20Views&color=0e75b6&style=flat" alt="snehamhr" />
-</p>
-
 ---
 
 ## 🧠 About Me
@@ -77,15 +73,6 @@ Machine Learning · NLP · Retrieval-Augmented Generation (RAG) · AI Systems ·
 | 📉 Customer Churn Prediction | Machine learning classifier with ~78% accuracy | Scikit-learn, XGBoost, Random Forest |
 | 📊 Sales Data Analysis | EDA and KPI dashboards for business insights | Python, Matplotlib, Excel |
 
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=snehamhr&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-  
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=snehamhr&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
 ---
 
 ## 🤝 Connect With Me

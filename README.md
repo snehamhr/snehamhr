@@ -82,10 +82,10 @@ Machine Learning · NLP · Retrieval-Augmented Generation (RAG) · AI Systems ·
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=snehamhr&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=snehamhr&layout=compact&theme=tokyonight&hide_border=true" width="40%"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=snehamhr&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+  
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=snehamhr&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
-
 ---
 
 ## 🤝 Connect With Me

@@ -89,23 +89,6 @@ Performed data cleaning, exploratory data analysis, KPI calculation, and revenue
 **Technologies:** Python, Pandas, Matplotlib, Excel, Data Visualization
 
 ---
-
-## Current Research
-
-### Explainable Machine Learning for Postpartum-Care Gaps
-
-Developing an applied machine-learning research project using India’s NFHS-5 survey data to identify women who report serious postpartum warning symptoms but do not receive timely postnatal care.
-
-The project focuses on:
-
-* Data preprocessing and feature engineering
-* Classification and model comparison
-* Explainable machine learning
-* Evaluation across Indian states and vulnerable groups
-* Recall-focused model evaluation for healthcare applications
-
----
-
 ## Technical Skills
 
 ### Programming and Databases

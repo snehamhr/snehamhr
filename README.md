@@ -28,7 +28,6 @@ Computer Engineering student building and deploying practical AI applications us
 * Former AI/ML Intern at Baby Dino, Zenith India.
 * Experienced in building RAG pipelines, NLP applications, recommendation systems, FastAPI services, and deployed machine-learning applications.
 * Worked with embeddings, semantic search, LLM API integration, data pipelines, model evaluation, and frontend–backend integration.
-* Currently developing an explainable machine-learning research project using NFHS-5 data to study postpartum warning symptoms and gaps in timely postnatal care.
 * Interested in paid remote opportunities in Applied AI/ML, Generative AI, Backend AI Engineering, NLP, and RAG systems.
 
 ---
@@ -61,7 +60,7 @@ A deployed FastAPI-based RAG application supporting multiple PDF uploads, semant
 
 A deployed RAG-based conversational application grounded in psychology-book content, with short-term conversation memory, out-of-scope handling, and crisis-message safety routing.
 
-**Technologies:** Python, RAG, MiniLM Embeddings, Groq, NLP, FastAPI
+**Technologies:** Python, RAG, MiniLM Embeddings, LLM, NLP, FastAPI
 
 ---
 
